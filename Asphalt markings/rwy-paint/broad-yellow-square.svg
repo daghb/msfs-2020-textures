@@ -9,14 +9,14 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
    height="2048"
-   viewBox="0 0 541.86665 541.86668"
+   viewBox="0 0 541.86664 541.86668"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="enkb-helipad-circle.svg"
-   inkscape:export-filename="C:\Users\imdag\enkb-helipad-circle.png"
-   inkscape:export-xdpi="49.130001"
-   inkscape:export-ydpi="49.130001">
+   sodipodi:docname="broad-yellow-square.svg"
+   inkscape:export-filename="D:\Dev\github\msfs-2020-textures\Asphalt markings\rwy-paint\broad-yellow-square.png"
+   inkscape:export-xdpi="96.000008"
+   inkscape:export-ydpi="96.000008">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,12 +55,12 @@
      inkscape:label="Lag 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
-       style="fill:none;fill-opacity:0.455307;stroke-width:4.99999999;stroke:#ffc000;stroke-opacity:0.50279331;stroke-miterlimit:4;stroke-dasharray:none"
-       id="path833"
-       cx="273.65475"
-       cy="275.92261"
-       rx="263.82739"
-       ry="251.73215" />
+    <rect
+       style="fill:#ffde00;fill-opacity:0.536313;stroke-width:15.3373;stroke-opacity:0.712291"
+       id="rect849"
+       width="539.75"
+       height="540.59082"
+       x="0.75595242"
+       y="0.67108154" />
   </g>
 </svg>
